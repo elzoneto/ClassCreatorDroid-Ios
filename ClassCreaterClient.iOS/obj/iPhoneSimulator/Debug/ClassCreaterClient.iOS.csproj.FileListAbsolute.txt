@@ -68,14 +68,14 @@
 /Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient.iOS/obj/iPhoneSimulator/Debug/ClassCreaterClient.iOS.csproj.CopyComplete
 /Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient.iOS/obj/iPhoneSimulator/Debug/ClassCreatorClient.iOS.exe
 /Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient.iOS/obj/iPhoneSimulator/Debug/ClassCreatorClient.iOS.pdb
-/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/actool/_PartialAppManifest.items
-/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/actool/_BundleResourceWithLogicalName.items
-/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/ibtool/_BundleResourceWithLogicalName.items
-/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/coremlc/_PartialAppManifest.items
-/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/coremlc/_BundleResourceWithLogicalName.items
-/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/healer.png
-/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/melee.png
-/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/plus.png
-/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/range.png
-/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/tank.png
-/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/
+/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient.iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient.iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient.iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient.iOS/obj/iPhoneSimulator/Debug/coremlc/_PartialAppManifest.items
+/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient.iOS/obj/iPhoneSimulator/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient.iOS/obj/iPhoneSimulator/Debug/optimized/healer.png
+/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient.iOS/obj/iPhoneSimulator/Debug/optimized/melee.png
+/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient.iOS/obj/iPhoneSimulator/Debug/optimized/plus.png
+/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient.iOS/obj/iPhoneSimulator/Debug/optimized/range.png
+/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient.iOS/obj/iPhoneSimulator/Debug/optimized/tank.png
+/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient.iOS/obj/iPhoneSimulator/Debug/optimized/

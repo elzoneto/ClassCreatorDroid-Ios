@@ -8,7 +8,6 @@
     </ContentPage.ToolbarItems>
 
     <ContentPage.Content>
-        <ScrollView>
             <Grid>
                 <Grid.RowDefinitions>
                     <RowDefinition Height="Auto"/>
@@ -42,7 +41,6 @@
                 </StackLayout>
 
             </Grid>
-        </ScrollView>
     </ContentPage.Content>
     
 </ContentPage>
