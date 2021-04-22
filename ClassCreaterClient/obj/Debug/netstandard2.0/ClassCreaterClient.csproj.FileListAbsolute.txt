@@ -1,0 +1,74 @@
+C:/Users/Elzo Neto/Desktop/ClassCreaterClient/ClassCreaterClient/bin/Debug/netstandard2.0/ClassCreaterClient.deps.json
+C:/Users/Elzo Neto/Desktop/ClassCreaterClient/ClassCreaterClient/bin/Debug/netstandard2.0/ClassCreaterClient.dll
+C:/Users/Elzo Neto/Desktop/ClassCreaterClient/ClassCreaterClient/bin/Debug/netstandard2.0/ref/ClassCreaterClient.dll
+C:/Users/Elzo Neto/Desktop/ClassCreaterClient/ClassCreaterClient/bin/Debug/netstandard2.0/ClassCreaterClient.pdb
+C:/Users/Elzo Neto/Desktop/ClassCreaterClient/ClassCreaterClient/obj/Debug/netstandard2.0/App.xaml.g.cs
+C:/Users/Elzo Neto/Desktop/ClassCreaterClient/ClassCreaterClient/obj/Debug/netstandard2.0/AppShell.xaml.g.cs
+C:/Users/Elzo Neto/Desktop/ClassCreaterClient/ClassCreaterClient/obj/Debug/netstandard2.0/ClassCreaterClient.AssemblyInfoInputs.cache
+C:/Users/Elzo Neto/Desktop/ClassCreaterClient/ClassCreaterClient/obj/Debug/netstandard2.0/ClassCreaterClient.AssemblyInfo.cs
+C:/Users/Elzo Neto/Desktop/ClassCreaterClient/ClassCreaterClient/obj/Debug/netstandard2.0/ClassCreaterClient.dll
+C:/Users/Elzo Neto/Desktop/ClassCreaterClient/ClassCreaterClient/obj/Debug/netstandard2.0/ref/ClassCreaterClient.dll
+C:/Users/Elzo Neto/Desktop/ClassCreaterClient/ClassCreaterClient/obj/Debug/netstandard2.0/ClassCreaterClient.pdb
+C:/Users/Elzo Neto/Desktop/ClassCreaterClient/ClassCreaterClient/obj/Debug/netstandard2.0/Views/CharacterPage.xaml.g.cs
+C:/Users/Elzo Neto/Desktop/ClassCreaterClient/ClassCreaterClient/obj/Debug/netstandard2.0/Views/ClassPage.xaml.g.cs
+C:/Users/Elzo Neto/Desktop/ClassCreaterClient/ClassCreaterClient/obj/Debug/netstandard2.0/ClassCreaterClient.csprojAssemblyReference.cache
+C:/Users/Elzo Neto/Desktop/ClassCreaterClient/ClassCreaterClient/obj/Debug/netstandard2.0/ClassCreaterClient.csproj.CoreCompileInputs.cache
+C:/Users/Elzo Neto/Desktop/ClassCreaterClient/ClassCreaterClient/obj/Debug/netstandard2.0/XamlC.stamp
+C:/Users/Elzo Neto/OneDrive - NC (1)/Desktop/PROG1442_Project#2/ClassCreaterClient/ClassCreaterClient/bin/Debug/netstandard2.0/ClassCreaterClient.deps.json
+C:/Users/Elzo Neto/OneDrive - NC (1)/Desktop/PROG1442_Project#2/ClassCreaterClient/ClassCreaterClient/bin/Debug/netstandard2.0/ClassCreaterClient.dll
+C:/Users/Elzo Neto/OneDrive - NC (1)/Desktop/PROG1442_Project#2/ClassCreaterClient/ClassCreaterClient/bin/Debug/netstandard2.0/ref/ClassCreaterClient.dll
+C:/Users/Elzo Neto/OneDrive - NC (1)/Desktop/PROG1442_Project#2/ClassCreaterClient/ClassCreaterClient/bin/Debug/netstandard2.0/ClassCreaterClient.pdb
+C:/Users/Elzo Neto/OneDrive - NC (1)/Desktop/PROG1442_Project#2/ClassCreaterClient/ClassCreaterClient/obj/Debug/netstandard2.0/App.xaml.g.cs
+C:/Users/Elzo Neto/OneDrive - NC (1)/Desktop/PROG1442_Project#2/ClassCreaterClient/ClassCreaterClient/obj/Debug/netstandard2.0/AppShell.xaml.g.cs
+C:/Users/Elzo Neto/OneDrive - NC (1)/Desktop/PROG1442_Project#2/ClassCreaterClient/ClassCreaterClient/obj/Debug/netstandard2.0/ClassCreaterClient.AssemblyInfoInputs.cache
+C:/Users/Elzo Neto/OneDrive - NC (1)/Desktop/PROG1442_Project#2/ClassCreaterClient/ClassCreaterClient/obj/Debug/netstandard2.0/ClassCreaterClient.AssemblyInfo.cs
+C:/Users/Elzo Neto/OneDrive - NC (1)/Desktop/PROG1442_Project#2/ClassCreaterClient/ClassCreaterClient/obj/Debug/netstandard2.0/ClassCreaterClient.csproj.CoreCompileInputs.cache
+C:/Users/Elzo Neto/OneDrive - NC (1)/Desktop/PROG1442_Project#2/ClassCreaterClient/ClassCreaterClient/obj/Debug/netstandard2.0/XamlC.stamp
+C:/Users/Elzo Neto/OneDrive - NC (1)/Desktop/PROG1442_Project#2/ClassCreaterClient/ClassCreaterClient/obj/Debug/netstandard2.0/ClassCreaterClient.dll
+C:/Users/Elzo Neto/OneDrive - NC (1)/Desktop/PROG1442_Project#2/ClassCreaterClient/ClassCreaterClient/obj/Debug/netstandard2.0/ref/ClassCreaterClient.dll
+C:/Users/Elzo Neto/OneDrive - NC (1)/Desktop/PROG1442_Project#2/ClassCreaterClient/ClassCreaterClient/obj/Debug/netstandard2.0/ClassCreaterClient.pdb
+C:/Users/Elzo Neto/OneDrive - NC (1)/Desktop/PROG1442_Project#2/ClassCreaterClient/ClassCreaterClient/obj/Debug/netstandard2.0/Views/CharacterPage.xaml.g.cs
+C:/Users/Elzo Neto/OneDrive - NC (1)/Desktop/PROG1442_Project#2/ClassCreaterClient/ClassCreaterClient/obj/Debug/netstandard2.0/Views/ClassPage.xaml.g.cs
+C:/Users/Elzo Neto/OneDrive - NC (1)/Desktop/PROG1442_Project#2/ClassCreaterClient/ClassCreaterClient/obj/Debug/netstandard2.0/ClassCreaterClient.csprojAssemblyReference.cache
+C:/PROG1442/PROG1442_Project#2/ClassCreaterClient/ClassCreaterClient/bin/Debug/netstandard2.0/ClassCreaterClient.deps.json
+C:/PROG1442/PROG1442_Project#2/ClassCreaterClient/ClassCreaterClient/bin/Debug/netstandard2.0/ClassCreaterClient.dll
+C:/PROG1442/PROG1442_Project#2/ClassCreaterClient/ClassCreaterClient/bin/Debug/netstandard2.0/ref/ClassCreaterClient.dll
+C:/PROG1442/PROG1442_Project#2/ClassCreaterClient/ClassCreaterClient/bin/Debug/netstandard2.0/ClassCreaterClient.pdb
+C:/PROG1442/PROG1442_Project#2/ClassCreaterClient/ClassCreaterClient/obj/Debug/netstandard2.0/App.xaml.g.cs
+C:/PROG1442/PROG1442_Project#2/ClassCreaterClient/ClassCreaterClient/obj/Debug/netstandard2.0/AppShell.xaml.g.cs
+C:/PROG1442/PROG1442_Project#2/ClassCreaterClient/ClassCreaterClient/obj/Debug/netstandard2.0/Views/CharacterPage.xaml.g.cs
+C:/PROG1442/PROG1442_Project#2/ClassCreaterClient/ClassCreaterClient/obj/Debug/netstandard2.0/Views/ClassPage.xaml.g.cs
+C:/PROG1442/PROG1442_Project#2/ClassCreaterClient/ClassCreaterClient/obj/Debug/netstandard2.0/ClassCreaterClient.AssemblyInfoInputs.cache
+C:/PROG1442/PROG1442_Project#2/ClassCreaterClient/ClassCreaterClient/obj/Debug/netstandard2.0/ClassCreaterClient.AssemblyInfo.cs
+C:/PROG1442/PROG1442_Project#2/ClassCreaterClient/ClassCreaterClient/obj/Debug/netstandard2.0/ClassCreaterClient.csproj.CoreCompileInputs.cache
+C:/PROG1442/PROG1442_Project#2/ClassCreaterClient/ClassCreaterClient/obj/Debug/netstandard2.0/XamlC.stamp
+C:/PROG1442/PROG1442_Project#2/ClassCreaterClient/ClassCreaterClient/obj/Debug/netstandard2.0/ClassCreaterClient.dll
+C:/PROG1442/PROG1442_Project#2/ClassCreaterClient/ClassCreaterClient/obj/Debug/netstandard2.0/ref/ClassCreaterClient.dll
+C:/PROG1442/PROG1442_Project#2/ClassCreaterClient/ClassCreaterClient/obj/Debug/netstandard2.0/ClassCreaterClient.pdb
+C:/PROG1442/PROG1442_Project#2/ClassCreaterClient/ClassCreaterClient/obj/Debug/netstandard2.0/ClassCreaterClient.csprojAssemblyReference.cache
+C:/PROG1442/PROG1442_Project#2/ClassCreaterClient/ClassCreaterClient/obj/Debug/netstandard2.0/Views/ClassDetailPage.xaml.g.cs
+C:/PROG1442/PROG1442_Project#2/ClassCreaterClient/ClassCreaterClient/obj/Debug/netstandard2.0/Views/CharacterDetailsPage.xaml.g.cs
+C:/PROG1442/PROG1442_Project#2/ClassCreaterClient/ClassCreaterClient/obj/Debug/netstandard2.0/Views/SkillPage.xaml.g.cs
+C:/PROG1442/PROG1442_Project#2/ClassCreaterClient/ClassCreaterClient/obj/Debug/netstandard2.0/Views/SkillDetailsPage.xaml.g.cs
+C:/PROG1442/PROG1442_Project#2/ClassCreaterClient/ClassCreaterClient/obj/Debug/netstandard2.0/Views/StoryPage.xaml.g.cs
+/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient/bin/Debug/netstandard2.0/ClassCreaterClient.deps.json
+/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient/bin/Debug/netstandard2.0/ClassCreaterClient.dll
+/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient/bin/Debug/netstandard2.0/ref/ClassCreaterClient.dll
+/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient/bin/Debug/netstandard2.0/ClassCreaterClient.pdb
+/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient/obj/Debug/netstandard2.0/ClassCreaterClient.csprojAssemblyReference.cache
+/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient/obj/Debug/netstandard2.0/AppShell.xaml.g.cs
+/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient/obj/Debug/netstandard2.0/Views/CharacterDetailsPage.xaml.g.cs
+/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient/obj/Debug/netstandard2.0/Views/CharacterPage.xaml.g.cs
+/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient/obj/Debug/netstandard2.0/Views/ClassDetailPage.xaml.g.cs
+/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient/obj/Debug/netstandard2.0/Views/ClassPage.xaml.g.cs
+/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient/obj/Debug/netstandard2.0/Views/SkillDetailsPage.xaml.g.cs
+/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient/obj/Debug/netstandard2.0/Views/SkillPage.xaml.g.cs
+/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient/obj/Debug/netstandard2.0/Views/StoryPage.xaml.g.cs
+/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient/obj/Debug/netstandard2.0/ClassCreaterClient.AssemblyInfoInputs.cache
+/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient/obj/Debug/netstandard2.0/ClassCreaterClient.AssemblyInfo.cs
+/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient/obj/Debug/netstandard2.0/ClassCreaterClient.csproj.CoreCompileInputs.cache
+/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient/obj/Debug/netstandard2.0/ClassCreaterClient.dll
+/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient/obj/Debug/netstandard2.0/ref/ClassCreaterClient.dll
+/Users/elzohonorato/Desktop/ClassCreator/ClassCreater-master/ClassCreaterClient/obj/Debug/netstandard2.0/ClassCreaterClient.pdb

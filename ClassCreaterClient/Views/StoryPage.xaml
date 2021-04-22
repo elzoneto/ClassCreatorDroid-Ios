@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ClassCreaterClient.Views.StoryPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="To be continued!"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" 
+                   FontSize="36"
+                   TextColor="Red"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

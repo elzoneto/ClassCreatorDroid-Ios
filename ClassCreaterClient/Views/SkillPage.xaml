@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ClassCreaterClient.Views.SkillPage">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="+" Clicked="AddClicked" IconImageSource="add.png" />
+    </ContentPage.ToolbarItems>
+    
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <StackLayout Grid.Row="0">
+                <Frame BackgroundColor="#1b1a17"  Padding="18" CornerRadius="0">
+                    <Label Text="Skill List" HorizontalTextAlignment="Center" TextColor="#ff8303" FontSize="28"/>
+                </Frame>
+            </StackLayout>
+
+            <StackLayout x:Name="ClassPanel" Grid.Row="1" Padding="20,20,20,0">
+                <Picker x:Name="pickerClasses" Title="Filter Characters by Classes" FontSize="24" class="Class" 
+                    ItemsSource="{Binding classes}" ItemDisplayBinding="{Binding Name}" TextColor="#ff8303"
+                        SelectedIndexChanged="pickerClasses_SelectedIndexChanged" >
+                </Picker>
+            </StackLayout>
+
+            <StackLayout Grid.Row="2" VerticalOptions="Center" HorizontalOptions="FillAndExpand">
+                <Label x:Name="skillResult" Text="Skill Results" TextColor="#ff8303" FontSize="36" VerticalTextAlignment="Center"  Padding="30,20,20,0"/>
+                <ListView Grid.Row="1" x:Name="skillList" ItemsSource="{Binding Skill}" Margin="30,0,30,0" ItemSelected="skillSelected" 
+                          SeparatorVisibility="Default" SeparatorColor="Gray">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <TextCell Text="{Binding SkillName}" Detail="{Binding SkillDescription}" DetailColor="#ff8303" TextColor="Black"/>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackLayout>
+
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

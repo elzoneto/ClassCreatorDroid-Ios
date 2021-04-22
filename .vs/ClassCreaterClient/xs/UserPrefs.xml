@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{6B2AF848-E7DE-4C21-A1F3-75C2B135AF9C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassCreaterClient/Views/SkillDetailsPage.xaml.cs">
+    <Files>
+      <File FileName="ClassCreaterClient/Models/Class.cs" Line="9" Column="6" />
+      <File FileName="ClassCreaterClient/Views/ClassDetailPage.xaml.cs" Line="145" Column="1" />
+      <File FileName="ClassCreaterClient/Views/SkillDetailsPage.xaml.cs" Line="146" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ClassCreaterClient" expanded="True">
+            <Node name="ClassCreaterClient.iOS" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ClassCreaterClient.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.669D43D3-B7A8-4B97-9D54-224688989B6C" />
+  <MonoDevelop.Ide.ItemProperties.ClassCreaterClient.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

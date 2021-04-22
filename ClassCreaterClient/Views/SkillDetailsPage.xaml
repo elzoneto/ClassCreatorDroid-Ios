@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ClassCreaterClient.Views.SkillDetailsPage"
+             Title="Skills Details">
+    
+    <ContentPage.Content>
+        <ScrollView x:Name="CharacterSV" Orientation="Vertical" VerticalOptions="FillAndExpand">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <StackLayout Grid.Row="0" Orientation="Vertical" VerticalOptions="Start" HorizontalOptions="FillAndExpand">
+                    <StackLayout VerticalOptions="Start" HorizontalOptions="FillAndExpand" Orientation="Vertical" BackgroundColor="#White">
+                        <StackLayout Orientation="Horizontal" Margin="20,20,20,0">
+                            <Entry x:Name="txtName" Placeholder="Skill Name" PlaceholderColor="#ff8303" Text="{Binding SkillName}" Keyboard="Text" VerticalOptions="Center" TextColor="Gray" HorizontalOptions="FillAndExpand" FontSize="24"/>
+                        </StackLayout>
+                        <StackLayout Orientation="Horizontal" Margin="20,20,20,0">
+                            <Editor x:Name="txtDesc" Text="{Binding SkillDescription}" Placeholder="Skill Description" PlaceholderColor="#ff8303" Keyboard="Text" TextColor="Gray" FontSize="24" 
+                                    VerticalOptions="Center"  HorizontalOptions="FillAndExpand" AutoSize="TextChanges"/>
+                        </StackLayout>
+                        <StackLayout Orientation="Horizontal" Padding="20,20,20,20" Margin="0,0,0,20">
+                            <Picker x:Name="pickerClass" Title=" Character Class " TitleColor="#ff8303" VerticalOptions="Center" HorizontalOptions="FillAndExpand" TextColor="Gray" FontSize="24"></Picker>
+                        </StackLayout>
+                        <StackLayout Grid.Row="1">
+                            <Button Text="Save" Clicked="SaveClicked" Margin="20,0,20,0"/>
+                            <Button Text="Cancel" Clicked="CancelClicked" Margin="20,0,20,0"/>
+                            <Button x:Name="btnDelete" Text="Delete" Clicked="DeleteClicked" Margin="20,0,20,0"/>
+                        </StackLayout>
+                    </StackLayout>
+                </StackLayout>
+            </Grid>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
